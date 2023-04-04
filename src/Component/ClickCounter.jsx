@@ -2,7 +2,7 @@ import React from "react";
 import HocComponent from "./HocComponent";
 import "./Counter.css"
 const ClickCounter = (props) => {
-    console.log(props)
+    // console.log(props)
 
     const Counter=props.count
   return (
